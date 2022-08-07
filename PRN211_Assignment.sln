@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN211_Assignment", "PRN211_Assignment\PRN211_Assignment.csproj", "{8F87836C-61DE-43A6-8CAE-E4E231BFA4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN211_Assigment.Repo", "PRN211_Assigment.Repo\PRN211_Assigment.Repo.csproj", "{31F2CE85-F768-41DA-92CE-4077B137F290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F87836C-61DE-43A6-8CAE-E4E231BFA4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F87836C-61DE-43A6-8CAE-E4E231BFA4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F87836C-61DE-43A6-8CAE-E4E231BFA4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F87836C-61DE-43A6-8CAE-E4E231BFA4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F2CE85-F768-41DA-92CE-4077B137F290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F2CE85-F768-41DA-92CE-4077B137F290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F2CE85-F768-41DA-92CE-4077B137F290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F2CE85-F768-41DA-92CE-4077B137F290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A025CE-2549-4575-92BA-E2091E1D317E}
+	EndGlobalSection
+EndGlobal
